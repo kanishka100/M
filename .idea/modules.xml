@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Movie-Recommendation-System.iml" filepath="$PROJECT_DIR$/.idea/Movie-Recommendation-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Project Work.iml" filepath="$PROJECT_DIR$/../.idea/Project Work.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/day-29/.idea/day-29.iml" filepath="$USER_HOME$/PycharmProjects/day-29/.idea/day-29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../sql database/.idea/sql database.iml" filepath="$PROJECT_DIR$/../../sql database/.idea/sql database.iml" />
+    </modules>
+  </component>
+</project>
